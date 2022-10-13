@@ -2,7 +2,7 @@
   "name": "bt",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://HAnh2610.github.io",
+  "homepage": "https://github.com/HAnh2610/heroku_web",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
