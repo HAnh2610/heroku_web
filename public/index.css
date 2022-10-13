@@ -30,3 +30,13 @@ h1 {
 h5{
   font-size: 1rem;
 }
+.b{
+  background: 
+  linear-gradient(
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)
+  ),
+  url(https://static.zerochan.net/Nahida.full.3717843.jpg);
+background-size: cover;
+height: 100vh;
+}
